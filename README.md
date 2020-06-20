@@ -2,10 +2,6 @@
 
 ![Gif of Dijkstra's with walls](https://github.com/agrant16/path-algorithm-visualizer/blob/master/path-visualizer-gif.gif)
 
-- An older version of the application, but still a good demo.
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and is built using React.js and Bootstrap through react-bootstrap.
-
 ## Currently Implemented Algorithms
 
 - [Dijkstra's Shortest Path](https://en.wikipedia.org/w/index.php?title=Special:Search&search=Dijkstra%27s+algorithm)
@@ -15,8 +11,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## How to Use the App
 
-A live demo of the application can be found [here](http://agrant16.github.io/path-algorithm-visualizer).
-This app is best viewed and used on screens with a width of 1300px or larger.
 It is a simple React.js app and is not built to be responsive.
 
 ### Selecting an Algorithm and Running the Visualizer
